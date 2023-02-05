@@ -3,7 +3,7 @@
     "express": "^4.18.2",
     "mongoose": "^6.8.1"
   },
-  "name": "emp_app-integration-main",
+  "name": "emp_app_integration",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
